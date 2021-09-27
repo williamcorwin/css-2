@@ -1,0 +1,55 @@
+.img {
+    max-width:500px;
+    max-height:500px;
+    padding: 50px;
+}
+
+body {
+    background-image: url('file:///C:/Users/wcorwin/Documents/a/image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #93CAED;
+  }
+
+.main-header {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    padding-right: 50px;
+    background-color: #EDB693;
+    padding: 50px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.body {
+    font-family: 'Architects Daughter', cursive;
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 100px;
+    padding-right: 100px;
+    background-color: white;
+    border:darksalmon;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#id {
+    color:white;
+}
+
+#h1 {
+    color:#EDB693
+}
+
+.main-header {
+    color:wheat
+}
+
+.main-header {
+    color: white
+}
